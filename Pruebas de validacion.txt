@@ -1,0 +1,14 @@
+CU1: Usuarios
+
+usuario mostrar - Correcto
+
+usuario agregar [Pablo Perez; pablo.perez@hotmail.com; 70896543; Calle 24 de Septiembre; cliente] - Correcto
+usuario agregar [Pablo Perez123; pablo.perez@hotmail.com; 70896543; Calle 24 de Septiembre; cliente] - Nombre de usuario incorrecto
+usuario agregar [Pablo Perez; pablo.perezhotmail.com; 70896543; Calle 24 de Septiembre; cliente] - Correo electronico incorrecto
+usuario agregar [Pablo Perez; pablo.perez@hotmail.com; 70896543qwe; Calle 24 de Septiembre; cliente] - Telefono incorrecto
+usuario agregar [Pablo Perez; pablo.perez@hotmail.com; 70896543; Calle 24 de Septiembre #10; cliente] - Direccion correcta
+usuario agregar [Pablo Perez; pablo.perez@hotmail.com; 70896543; Calle 24 de Septiembre #10; CLIENTE] - Correcto
+
+usuario eliminar [18] - Correcto
+
+

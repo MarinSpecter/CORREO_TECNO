@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/postgresql-42.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jfreechart-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/dotenv-java-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
